@@ -1,6 +1,5 @@
 class Course < ActiveRecord::Base
-  def course_num(num)
-    @num = num
+  def course_num
   end
 end
 
